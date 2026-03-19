@@ -188,9 +188,9 @@ while 1:
 
 #### About The Author
 
-**Author**: *A Hareeswar Reddy*
+**Author**: *Sivagouni Gayatri*
 
-**Personal Email**: *ahreddy05@gmail.com*
+**Personal Email**: *gayatrisivagouni@gmail.com*
 
 **Education**: *B.Tech - Electronics and communication Engineering*
 
