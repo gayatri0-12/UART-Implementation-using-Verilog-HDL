@@ -195,7 +195,7 @@ while 1:
 
 **College**: *National Institute of Technology(NIT), Durgapur, India*
 
-**Brief info.**: *Interested in Digital IC Design and Verification, seeking any chance to enhance my knowledge and empower my skills.*
+**Brief info.**: *Passionate about Digital IC Design and Verification, with a strong desire to enhance domain knowledge and develop practical skills through hands-on opportunities.*
 
 #### About the project
 
