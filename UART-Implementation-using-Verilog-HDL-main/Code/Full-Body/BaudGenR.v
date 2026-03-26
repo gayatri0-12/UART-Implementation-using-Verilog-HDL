@@ -1,3 +1,4 @@
+
 module BaudGenR(
     input wire         reset_n,     //  Active low reset.
     input wire         clock,       //  The System's main clock.
