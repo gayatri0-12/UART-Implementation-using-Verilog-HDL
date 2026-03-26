@@ -1,13 +1,3 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: DeFrame.v
-//  TYPE: module.
-//  DATE: 31/8/2022
-//  KEYWORDS: Frame, Data.
-//  PURPOSE: An RTL modelling for separating the frame
-//  into Data bits, Parity bit, Start and Stop bits.
-
 module DeFrame(
     input wire          reset_n,        //  Active low reset.
     input wire          recieved_flag,  //  enable indicates when data is in progress.
