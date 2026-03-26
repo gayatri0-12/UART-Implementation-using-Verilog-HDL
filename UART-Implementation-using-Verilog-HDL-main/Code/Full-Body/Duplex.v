@@ -1,9 +1,3 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: Duplex.v
-//  TYPE: module.
-//  DATE: 23/9/2022
 //  KEYWORDS: UART, Full duplex.
 //  PURPOSE: An RTL modelling for the Top module for the duplex UART body.
 //  Architecture designed by Mohamed Maged,
