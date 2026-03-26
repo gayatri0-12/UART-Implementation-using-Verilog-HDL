@@ -1,6 +1,5 @@
 //  FILE NAME: SIPO.v
 //  TYPE: module.
-//  DATE: 31/8/2022
 //  KEYWORDS: SIPO, Shift register, Reciever.
 //  PURPOSE: An RTL modelling for a Serial-In-Parallel-Out shift register,
 //  controlled by an FSM to satisfy the UART-Rx protocol.
