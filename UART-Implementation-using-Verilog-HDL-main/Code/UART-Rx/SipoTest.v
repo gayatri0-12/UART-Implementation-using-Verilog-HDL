@@ -1,6 +1,3 @@
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria university, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
 //  FILE NAME: SipoTest.v
 //  TYPE: Test fixture "Test bench".
 //  DATE: 31/8/2022
