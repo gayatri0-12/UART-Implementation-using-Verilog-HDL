@@ -1,6 +1,5 @@
 //  FILE NAME: SipoTest.v
 //  TYPE: Test fixture "Test bench".
-//  DATE: 31/8/2022
 //  KEYWORDS: SIPO, Shift register, Reciever.
 
 `timescale 1ns/1ps
