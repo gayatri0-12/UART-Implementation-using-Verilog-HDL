@@ -1,6 +1,5 @@
 //  FILE NAME: RxTest.v
 //  TYPE: Test fixture "Test bench".
-//  DATE: 31/8/2022
 //  KEYWORDS: Reciever, UART-Rx.
 
 `timescale 1ns/1ps
